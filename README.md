@@ -1,0 +1,2 @@
+# shizapython
+python exercise
